@@ -1,8 +1,9 @@
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Ayushi Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer with expertise in crafting dynamic, scalable, and user-centric web applications. I work with modern technologies like React.js, Next.js, ASP.NET, and SQL, with a strong focus on problem-solving and clean code. My projects range from real-time systems to data-driven solutions, reflecting my adaptability and innovative mindset. Let's create something amazing together! 🚀</h3>
 
 - 📫 How to reach me **ayushi4502@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/ayushi-mishra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ayushi-mishra01" height="30" width="40" /></a>
